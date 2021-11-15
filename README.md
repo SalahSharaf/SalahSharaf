@@ -1,8 +1,8 @@
-### Hi there, Salah Sharaf Eldeen [Salah sharaf eldeen][] 👋 
+### Hi there, Salah Sharaf Eldeen [SalahSharaf] 👋 
 
 ## I'm a Student of (Computer & INFO Engineering) ,Freelancer at (Fiverr,Freelancing)!!
 
-- 🌱 I’m currently learning Data Science and big Data 🤣
+- 🌱 I’m currently learning Data Science and big Data
 - 👯 I’m looking to collaborate with other Data Scientists
 - 🥅 2022 Goals: Contribute more to Open Source projects and to find a part time job
 
