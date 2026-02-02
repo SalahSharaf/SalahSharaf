@@ -197,12 +197,6 @@ I'm a **versatile software engineer and entrepreneur** with **10+ years of techn
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salahsharaf&show_icons=true&theme=dark)
-
----
-
 ## 🎤 Let's Talk!
 
 I'm always interested in:
