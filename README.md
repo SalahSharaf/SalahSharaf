@@ -211,3 +211,11 @@ I'm always interested in:
 ---
 
 *Last Updated: 2025 | Based in Mansoura, Egypt 🇪🇬*
+
+## Connect with Me
+
+📧 **Email:** salah.amse@craftcoach.app
+💼 **LinkedIn:** [linkedin.com/in/salahsharafeldeen](https://linkedin.com/in/salahsharafeldeen)  
+📱 **Phone:** +201144386838
+
+Let's connect and build something amazing together! 🚀
